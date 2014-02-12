@@ -16,8 +16,6 @@ previo = fib_temp
   		sumatoria = sumatoria + fib_temp
   	end
   end
-
-
 end
 
 puts "sumatoria #{sumatoria}"
